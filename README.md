@@ -26,7 +26,7 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
 ![SpringBot Logo](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
 ![Html Logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
 ![Css Logo](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg)
-
+![JS Logo](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 
 <p align="center">
   <img height="200" src="https://raw.githubusercontent.com/LTLA/acceptable-anime-gifs/master/registry/16742_WataMote/0001.gif">
