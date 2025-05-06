@@ -5,7 +5,7 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
 ## 🌟 Sobre Mim
 
 - **Nome:** Pedro Henrique
-- **Profissão:** Ainda não trabalho na área, mas busco uma primeira oportunidade para me aprofundar cada vez mais!
+- **Profissão:** Atualmente trabalho na Philips como suporte técnico, mas possuo grande interesse na parte de desenvolvimento.
 - **Localização:** Blumenau, Santa Catarina
 - **Interesses:** Aprender novas mecânicas na programação, sempre buscando o melhor desenvolvimento.
 - **Hobbie:** Gosto de ler poesia, escrever e ter momentos de lazer com quem gosto.
@@ -13,7 +13,7 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
 ## 📈 Minhas Habilidades
 
 - **Linguagens de Programação:** Utilizo diarimanete Java me aprofudando cada vez mais com Framework Spring e aprimorando meus conhecimentos.
-- **Front End** Me aprofundando cada vez mais em HTML e CSS, para posterior me aprofundar em Java Script.
+- **Front End** Conhecimentos Com HTML, CSS e Javascript, mas tentando me aprofundar cada vez mais.
 - **Banco de Dados** Atualmente estou utilizando e estudo cada vez mais PostgresSQL para aplicações mais complexas e banco H2 para teste rápidos.
 
 ## 🌍 Conecte-se Comigo
